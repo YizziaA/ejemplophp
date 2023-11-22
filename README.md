@@ -1,4 +1,4 @@
 # ejemplophp
 
-##bdveterinaria
-###tabla mascota
+## bdveterinaria
+### tabla mascota
